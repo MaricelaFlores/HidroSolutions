@@ -1,7 +1,7 @@
 # HidroSolutions
 ![Hidro Solutions](https://github.com/MaricelaFlores/HIDRO_SOLUTIONS1/blob/main/logo2.jpg)
 
-índice de riego para la región de Coquimbo
+Indice de riego para la región de Coquimbo
 ## Table of Contents
 1. [Información General](#info-general)
 2. [Descripción del código](#descripción-del-código)
@@ -27,5 +27,8 @@ A list of technologies used within the project:
 * [ArcPy](https://desktop.arcgis.com/es/arcmap/latest/analyze/arcpy/what-is-arcpy-.htm#:~:text=ArcPy%20es%20un%20paquete%20de,automatizaci%C3%B3n%20de%20mapas%20con%20Python.): Version 3.0
 * [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview): Version 3.0
   
+
+
+
 
 © [Hidro Solutions] - Todos los derechos reservados.
