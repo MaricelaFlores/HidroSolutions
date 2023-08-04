@@ -12,13 +12,18 @@ La dinámica de la agricultura y la optimización del uso del recurso hídrico, 
 
 1. FUNCION QUE RECIBE LA CAPA DEL PREDIO Y LA VARIABLE Y RETORNA EL ESTADÍSTICO RELEVANTE
 ![image](https://github.com/MaricelaFlores/HIDRO_SOLUTIONS1/blob/main/COD_1.png)
+
    - Esta primera parte del código realiza un análisis espacial y estadístico entre dos capas geográficas y realiza cálculos para obtener un valor promedio en una 
      de las capas, luego lo une y agrega a la capa original con el campo "id_predio" como identificador único. Además, asegura que los valores calculados no sean 
      nulos o negativos, reemplazándolos por ceros si es necesario.
-2. Código 2
-![image]()
-   - Descripcion del codigo
-3. Código 3
+3. Código 2
+![image](https://github.com/MaricelaFlores/HIDRO_SOLUTIONS1/blob/main/COD_2.png)
+
+   - Esta contianuación de código normaliza los valores del campo especificado en la capa de parcelas (parcela) dividiéndolos por el valor máximo encontrado en 
+     dicho campo. Los valores normalizados se almacenan en un nuevo campo llamado campo_normalizado. La normalización permite que los valores se expresen en una 
+     escala relativa entre 0 y 1, lo que facilita la comparación y el análisis de los datos, este proceso es realizado para cada variable numérica (temperatura, 
+     precipitación, humedad y evapotranspiración).
+4. Código 3
 ![image]()
    - Descripcion del codigo
 
