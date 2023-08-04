@@ -10,9 +10,11 @@ Indice de riego para la región de Coquimbo
 La dinámica de la agricultura y la optimización del uso del recurso hídrico, son importantes en el contexto actual, dado que el escenario a nivel mundial muestra cambios abruptos en cuanto al clima, lo cual motiva a la implementación de soluciones. Es por esto que Hidro Solutions busca calcular el índice de riego, mediante un análisis preciso de la relación entre el agua y la agricultura, para poder dar soluciones a la gestión del recurso. 
 ### Descripción del código
 
-1. Código 1
-![image]()
-   - Descripcion del codigo 
+1. FUNCION QUE RECIBE LA CAPA DEL PREDIO Y LA VARIABLE Y RETORNA EL ESTADÍSTICO RELEVANTE
+![image](https://github.com/MaricelaFlores/HIDRO_SOLUTIONS1/blob/main/COD_1.png)
+   - Esta primera parte del código realiza un análisis espacial y estadístico entre dos capas geográficas y realiza cálculos para obtener un valor promedio en una 
+     de las capas, luego lo une y agrega a la capa original con el campo "id_predio" como identificador único. Además, asegura que los valores calculados no sean 
+     nulos o negativos, reemplazándolos por ceros si es necesario.
 2. Código 2
 ![image]()
    - Descripcion del codigo
