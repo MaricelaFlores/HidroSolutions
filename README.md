@@ -6,8 +6,7 @@
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+4. [FAQs](#faqs)
 ### General Info
 *
 La dinámica de la agricultura y la optimización del uso del recurso hídrico, son importantes en el contexto actual, dado que el escenario a nivel mundial muestra cambios abruptos en cuanto al clima, lo cual motiva a la implementación de soluciones. Es por esto que Hidro Solutions busca calcular el índice de riego, mediante un análisis preciso de la relación entre el agua y la agricultura, para poder dar soluciones a la gestión del recurso. 
@@ -22,9 +21,9 @@ La dinámica de la agricultura y la optimización del uso del recurso hídrico, 
 ## Technologies
 *
 A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [ArcGIS Pro](https://www.esri.cl/es-cl/productos/arcgis-pro/overview): Version 3.0 
+* [ArcPy](https://desktop.arcgis.com/es/arcmap/latest/analyze/arcpy/what-is-arcpy-.htm#:~:text=ArcPy%20es%20un%20paquete%20de,automatizaci%C3%B3n%20de%20mapas%20con%20Python.): Version 3.0
+* [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview): Version 3.0
 ## Installation
 *
 A little intro about the installation. 
@@ -35,12 +34,6 @@ $ npm install
 $ npm start
 
 Side information: To use the application in a special environment use lorem ipsum to start
-## Collaboration
-*
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
 ## FAQs
 *
 A list of frequently asked questions
