@@ -12,7 +12,13 @@
 *
 La dinámica de la agricultura y la optimización del uso del recurso hídrico, son importantes en el contexto actual, dado que el escenario a nivel mundial muestra cambios abruptos en cuanto al clima, lo cual motiva a la implementación de soluciones. Es por esto que Hidro Solutions busca calcular el índice de riego, mediante un análisis preciso de la relación entre el agua y la agricultura, para poder dar soluciones a la gestión del recurso. 
 ### Screenshot
-![image](https://static.fundacion-affinity.org/cdn/farfuture/PVbbIC-0M9y4fPbbCsdvAD8bcjjtbFc0NSP3lRwlWcE/mtime:1643275542/sites/default/files/los-10-sonidos-principales-del-perro.jpg)
++ Código 1
+  ![image]()
++ Código 2
+  ![image]()
++ Código 3
+  ![image]()
+
 ## Technologies
 *
 A list of technologies used within the project:
