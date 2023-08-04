@@ -16,16 +16,20 @@ La dinámica de la agricultura y la optimización del uso del recurso hídrico, 
    - Esta primera parte del código realiza un análisis espacial y estadístico entre dos capas geográficas y realiza cálculos para obtener un valor promedio en una 
      de las capas, luego lo une y agrega a la capa original con el campo "id_predio" como identificador único. Además, asegura que los valores calculados no sean 
      nulos o negativos, reemplazándolos por ceros si es necesario.
-3. Código 2
+2. NORMALIZACIÓN DE DATOS 
 ![image](https://github.com/MaricelaFlores/HIDRO_SOLUTIONS1/blob/main/COD_2.png)
 
-   - Esta contianuación de código normaliza los valores del campo especificado en la capa de parcelas (parcela) dividiéndolos por el valor máximo encontrado en 
+   - Esta contianuación de código normaliza los valores del campo especificado en la capa de parcelas dividiéndolos por el valor máximo encontrado en 
      dicho campo. Los valores normalizados se almacenan en un nuevo campo llamado campo_normalizado. La normalización permite que los valores se expresen en una 
      escala relativa entre 0 y 1, lo que facilita la comparación y el análisis de los datos, este proceso es realizado para cada variable numérica (temperatura, 
      precipitación, humedad y evapotranspiración).
-4. Código 3
-![image]()
-   - Descripcion del codigo
+3. CALCULAR CAMPOS DE ACUERDO A LA PONDERACION
+![image](https://github.com/MaricelaFlores/HIDRO_SOLUTIONS1/blob/main/COD_3.png)
+
+   -  Finalmente este código realiza cálculos y actualizaciones en diferentes campos de una capa de parcelas, utilizando las ponderaciones de Saaty designadas 
+      definidas en el código para calcular el campo del índice. Los cálculos y actualizaciones se realizan utilizando cursores de actualización para recorrer los 
+      registros en la capa. Los resultados finales proporcionarán una evaluación compuesta de los valores de las variables de cada parcela de acuerdo a las 
+      ponderaciones establecidas.
 
 ### Technologies
 
